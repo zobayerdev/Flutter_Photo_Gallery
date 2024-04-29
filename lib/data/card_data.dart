@@ -3,7 +3,7 @@ class CardData {
     {
       "AlbumName": "Nature",
       "AlbumPicture":
-          "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=1380&t=st=1714373468~exp=1714374068~hmac=1f6b1e76b67fddec0f43699161f51c486842cb4f4a7252359eb95d2e125e8990",
+          "https://i0.wp.com/picjumbo.com/wp-content/uploads/magical-spring-forest-scenery-during-morning-breeze-free-photo.jpg?w=600&quality=80",
       "AlbumHeader": "Mood With Nature",
       "AlbumDescription":
           "Being in nature, or even viewing scenes of nature, reduces anger, fear, and stress and increases pleasant feelings"
